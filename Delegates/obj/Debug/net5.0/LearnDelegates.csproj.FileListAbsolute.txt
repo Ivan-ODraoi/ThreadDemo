@@ -1,0 +1,16 @@
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.AssemblyInfoInputs.cache
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.AssemblyInfo.cs
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\bin\Debug\net5.0\LearnDelegates.exe
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\bin\Debug\net5.0\LearnDelegates.deps.json
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\bin\Debug\net5.0\LearnDelegates.runtimeconfig.json
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\bin\Debug\net5.0\LearnDelegates.runtimeconfig.dev.json
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\bin\Debug\net5.0\LearnDelegates.dll
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\bin\Debug\net5.0\ref\LearnDelegates.dll
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\bin\Debug\net5.0\LearnDelegates.pdb
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.dll
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\ref\LearnDelegates.dll
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.pdb
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\Delegates\obj\Debug\net5.0\LearnDelegates.genruntimeconfig.cache

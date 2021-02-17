@@ -1,0 +1,15 @@
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\ThreadingDemo.exe.config
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\ThreadingDemo.exe
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\bin\Debug\ThreadingDemo.pdb
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.csprojAssemblyReference.cache
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\MainWindow.g.cs
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\App.g.cs
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo_MarkupCompile.cache
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo_MarkupCompile.lref
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\MainWindow.baml
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.g.resources
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.Properties.Resources.resources
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.csproj.GenerateResource.cache
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.exe
+C:\Users\ivano\OneDrive\source\repos\ThreadingDemo\ThreadingDemo\obj\Debug\ThreadingDemo.pdb
